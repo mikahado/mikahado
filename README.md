@@ -1,3 +1,7 @@
-For the past 10 years, I have been a college instructor and a digital media designer. As my work has increasingly employed technology, I began to self-learn coding and software engineering skills a few years ago, to improve the functionality of my work. 
-My interest in these field have grown, and I’ve decided to make a career change into software development. 
-My formal education concludes with an M.A., focusing in language arts, rhetoric/logic, as well as literary and information theory.  
+College instructor, digital media designer, and now a developing developer. Technology is my mainstay. Whether its financial systems to healthcare dataset, from organization to social networks and art, I'm the medium -- the software developer, the old town square where commerce meets creative, where the individual meets the social sphere. I'm not either one, I'm the medium.
+
+As my work has increasingly employed technology, I began to self-learn coding and software engineering. As it became more central to my work, I studied it via an immersive program in Manhattan. 
+
+Here you will find my work as a developing developer, and beyond. 
+
+My formal education includes an M.A.
