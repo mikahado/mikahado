@@ -1,1 +1,1 @@
-Software developer. Digital media designer. University lecturer. 
+Software developer. Digital media designer. College Lit instructor. 
