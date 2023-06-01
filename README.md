@@ -1,6 +1,5 @@
-## Hio! My name's Maika and I'm a . . .
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=8494FF&width=435&lines=Software+Engineer+;Digital+Media+Designer+;College+Lit+Instructor)](https://git.io/typing-svg)
+# Michael Harrell.
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=000000&width=500&lines=Software+Engineer+;Media+Designer+;Class+Act+Computer+Nerd)](https://git.io/typing-svg)
  
 <!-- <img src="./icons/javascript-original.svg" width="48">
 <img src="./icons/ruby-plain.svg" width="48">
