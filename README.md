@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/et_cetera-000000?logo=none&logoColor=black&style=flat) 
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=E0115F&width=500&lines=Software+Engineer+;Media+Designer+;Educator;Software+Engineer+;Media+Designer+;Complete+Computer+Nerd;Software+Engineer;Media+Designer+;Human+Debugger;Software+Engineer;Media+Designer;Storyteller;Software+Engineer;Media+Designer;Guitar+Player;Software+Engineer;Media+Designer;Voracious+Reader;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=E0115F&width=500&lines=Software+Engineer;Educator;Digital+Designer;Languagehead;Storyteller;Computer+Nerd; Musician;Voracious+Reader;)](https://git.io/typing-svg)
  
 <!-- <img src="./icons/javascript-original.svg" width="48">
 <img src="./icons/ruby-plain.svg" width="48">
