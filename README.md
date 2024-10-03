@@ -1,15 +1,16 @@
 # Michael D Harrell
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)(https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)(https://reactjs.org/)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)(https://www.ruby-lang.org/en/)
-![Rails](https://img.shields.io/badge/Rails-CC342D?style=flat&logo=rubyonrails&logoColor=black)(https://rubyonrails.org/)
-![Redux](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=black&style=flat)(https://redux.js.org/)
-![Python](https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=black&style=flat&color=yellowgreen)(https://www.python.org/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)(https://www.postgresql.org/)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=black&style=flat)(https://www.mysql.com/)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=black&style=flat)(https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=black&style=flat)(https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)](https://reactjs.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)](https://www.ruby-lang.org/en/)
+[![Rails](https://img.shields.io/badge/Rails-CC342D?style=flat&logo=rubyonrails&logoColor=black)](https://rubyonrails.org/)
+[![Redux](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=black&style=flat)](https://redux.js.org/)
+[![Python](https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=black&style=flat&color=yellowgreen)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=black&style=flat)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 
