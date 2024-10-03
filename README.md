@@ -19,9 +19,6 @@ With a background as a freelancer in digital media and experience teaching at th
 
 Let's connect.
 
-## Tech-know-ologies:
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)
